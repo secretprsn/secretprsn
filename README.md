@@ -11,7 +11,7 @@
 
 # Hi there 👋, I'm **Raditya Nurakmal Irsyad**
 
-### 🧠 ML Enthusiast · ⚙️ Software Engineer · 🌐 Full Stack Developer
+### 🧠 ML Enthusiast · ⚙️ Software Engineer · 🌐 Front End Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Always+learning+new+things...)](https://git.io/typing-svg)
 
@@ -24,8 +24,8 @@
 ```javascript
 const raditya = {
   name      : "Raditya Nurakmal Irsyad",
-  interests : ["Machine Learning", "Software Engineering", "Full Stack Web Dev", "AI"],
-  currently : "Learning Full Stack Web Development & AI 🌱",
+  interests : ["Machine Learning", "Software Engineering", "Front End Web Dev", "AI"],
+  currently : "Learning Front End Web Development & AI 🌱",
   contact   : "radityanurakmal88@gmail.com",
   available : true,
 };
@@ -74,7 +74,7 @@ const raditya = {
 ## 🌱 Currently Learning
 
 - 🤖 **Artificial Intelligence** & Machine Learning
-- 🌐 **Full Stack Web Development**
+- 🌐 **Front End UI/UX Web Development**
 - ☁️ **Cloud Services** & DevOps
 - 📊 **Data Science** fundamentals
 
