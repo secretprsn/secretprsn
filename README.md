@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
 ```
 
-# Hi there 👋, I'm **Raditya Nurakmal Irsyad**
+# Hi there!, I'm **Raditya Nurakmal Irsyad**
 
 ### 🧠 ML Enthusiast · ⚙️ Software Engineer · 🌐 Front End Developer
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```javascript
 const raditya = {
@@ -33,7 +33,7 @@ const raditya = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,7 +57,7 @@ const raditya = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -71,7 +71,7 @@ const raditya = {
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - 🤖 **Artificial Intelligence** & Machine Learning
 - 🌐 **Front End UI/UX Web Development**
@@ -94,7 +94,7 @@ const raditya = {
 
 <div align="center">
 
-> *"The best way to predict the future is to create it."*
+> *"Jangan Berfikir Untuk Sempurna, Tetapi Berfikirlah Untuk Berguna."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=secretprsn&color=58A6FF&style=flat-square)
 
