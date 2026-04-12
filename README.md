@@ -13,7 +13,7 @@
 
 ### 🧠 ML Enthusiast · ⚙️ Software Engineer · 🌐 Front End Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Machine+Learning+Enthusiast;Always+learning+new+things...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Front+End+Web+Developer;Machine+Learning+Enthusiast;Always+learning+new+things...)](https://git.io/typing-svg)
 
 </div>
 
